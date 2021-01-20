@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Notas 1.2</string>
+    <string name="nova_nota_activity">Nova Nota</string>
+    <string name="editar_nota_activity">Editar Nota</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Notas 1.2</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_inicio">Início</string>
+    <string name="menu_lixeira">Lixeira</string>
+    <string name="menu_configuracoes">Configurações</string>
+    <string name="menu_sobre">Sobre</string>
+
+    <string name="categoria_menu_informacoes">Informações</string>
+
+    <string name="hint_titulo_nova_nota">Título</string>
+    <string name="hint_nota_nova_nota">Nota</string>
+
+    <string name="topico_filtrar_ordenacao">Ordenar por:</string>
+    <string name="topico_filtrar_pesquisa">Pesquisa</string>
+    <string name="topico_filtrar_aplicar">Aplicar filtros em:</string>
+
+    <string name="radio_ordenar_recentes">Mais recentes</string>
+    <string name="radio_ordenar_antigas">Mais antigas</string>
+
+    <string name="hint_edit_pesquisar">Digite uma palavra</string>
+
+    <string name="check_aplicar_notas">Notas</string>
+    <string name="check_aplicar_lembretes">Lembretes</string>
+
+    <string name="button_filtrar_aplicar">Aplicar filtros</string>
+
+    <string name="topico_config_nota">CONFIGURAÇÕES DA NOTA</string>
+    <string name="topico_config_cor">Cor de fundo</string>
+    <string name="topico_config_exportar">EXPORTAR NOTAS</string>
+    <string name="topico_config_dados">DADOS</string>
+    <string name="topico_config_config">CONFIGURAÇÕES</string>
+
+    <string name="text_config_fonte">Tamanho da fonte</string>
+    <string name="text_config_fonte_p">Pequeno</string>
+    <string name="text_config_fonte_m">Padrão</string>
+    <string name="text_config_fonte_g">Grande</string>
+    <string name="text_config_deletar">Deletar dados</string>
+    <string name="text_config_restaurar">Restaurar configurações</string>
+
+    <string name="radio_cor_amarelo">Amarelo</string>
+    <string name="radio_cor_verde">Verde</string>
+    <string name="radio_cor_branco">Branco</string>
+
+    <string name="botao_exportar_notas">Exportar notas</string>
+</resources>

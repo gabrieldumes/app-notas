@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#151515</color>
+    <color name="colorPrimaryDark">#151515</color>
+    <color name="colorAccent">#151515</color>
+
+    <color name="cor_nota_amarelo">#FFF9C4</color>
+    <color name="cor_nota_verde">#CEEBD5</color>
+    <color name="cor_nota_branco">#FFFFFF</color>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="13dp"
+    android:layout_marginRight="10dp"
+    app:cardBackgroundColor="@color/cor_nota_verde"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/textTitulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="6dp"
+            android:text="Título"
+            android:textSize="@dimen/titulo_nota_padrao"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textNota"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nota"
+            android:textSize="@dimen/texto_nota_padrao" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
